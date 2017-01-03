@@ -17,7 +17,7 @@ public class Example {
 	}
 	
 	public static void main(String[] args) {
-		powersOf2(4);
+		powersOf2(16);
 	}
 
 }
